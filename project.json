@@ -1,14 +1,15 @@
 {
   "name": "Citadel-Demo",
-  "projectId": "38ef8b60-2e5b-4f1b-b338-ceea041bca87",
+  "projectId": "2c84f722-6de7-4439-b24a-d70fe1e2c0d6",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
+    "Methodist.Library": "[1.0.2]",
     "UiPath.Excel.Activities": "[2.22.3]",
     "UiPath.Mail.Activities": "[1.21.1]",
     "UiPath.System.Activities": "[23.10.5]",
     "UiPath.Testing.Activities": "[23.10.1]",
-    "UiPath.UIAutomation.Activities": "[23.10.7]"
+    "UiPath.UIAutomation.Activities": "[24.10.10]"
   },
   "webServices": [],
   "entitiesStores": [],
@@ -44,7 +45,6 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "modernBehavior": true,
     "saveToCloud": false
   },
   "expressionLanguage": "VisualBasic",
