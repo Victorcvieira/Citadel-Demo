@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3S7+hvoifoW82vMJQGuUSOtHVTqDWYLCIqMv/AEl/ljPHNlqZv1yYEqiQOZHzVVrsSsXxuRLtG3h9jMyu9i21Q==",
+  "dgSpecHash": "xVxNwT0XLH3o7eU/ha8bfPUuVbRS2qdbXSb+sfZhLOIMy/0sMwsOYHIQyI4+aXZaFV5mDFCMJJpkD0jUt/Mltw==",
   "success": true,
   "projectFilePath": "C:\\temp\\UiPathProjects\\Citadel-Demo\\.local\\",
   "expectedPackageFiles": [
@@ -19,7 +19,7 @@
     "C:\\Users\\victor.vieira\\.nuget\\packages\\htmlagilitypack\\1.11.38\\htmlagilitypack.1.11.38.nupkg.sha512",
     "C:\\Users\\victor.vieira\\.nuget\\packages\\mailkit\\3.1.1\\mailkit.3.1.1.nupkg.sha512",
     "C:\\Users\\victor.vieira\\.nuget\\packages\\markdig.signed\\0.21.1\\markdig.signed.0.21.1.nupkg.sha512",
-    "C:\\Users\\victor.vieira\\.nuget\\packages\\methodist.library\\1.0.5\\methodist.library.1.0.5.nupkg.sha512",
+    "C:\\Users\\victor.vieira\\.nuget\\packages\\methodist.library\\1.0.6\\methodist.library.1.0.6.nupkg.sha512",
     "C:\\Users\\victor.vieira\\.nuget\\packages\\microsoft.applicationinsights\\2.15.0\\microsoft.applicationinsights.2.15.0.nupkg.sha512",
     "C:\\Users\\victor.vieira\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0\\microsoft.aspnet.signalr.client.2.4.0.nupkg.sha512",
     "C:\\Users\\victor.vieira\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.1.6\\microsoft.aspnetcore.connections.abstractions.3.1.6.nupkg.sha512",
@@ -297,14 +297,6 @@
       "warningLevel": 1,
       "filePath": "C:\\temp\\UiPathProjects\\Citadel-Demo\\.local",
       "message": "The local source 'C:\\Users\\iago.souza\\Downloads\\UiPathTAMTeam.Operations.Activities' doesn't exist.",
-      "libraryId": "Methodist.Library"
-    },
-    {
-      "code": "NU1801",
-      "level": "Warning",
-      "warningLevel": 1,
-      "filePath": "C:\\temp\\UiPathProjects\\Citadel-Demo\\.local",
-      "message": "Unable to load the service index for source https://uipath.pkgs.visualstudio.com/Public.Feeds/_packaging/Autopilot for Everyone-Packages/nuget/v3/index.json.",
       "libraryId": "Methodist.Library"
     }
   ]

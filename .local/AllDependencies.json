@@ -250,7 +250,7 @@
           }
         }
       },
-      "Methodist.Library/1.0.5": {
+      "Methodist.Library/1.0.6": {
         "type": "package",
         "dependencies": {
           "UiPath.UIAutomation.Activities": "[24.10.10]"
@@ -267,8 +267,8 @@
           "lib/net8.0-windows7.0/Methodist Library.dll": {
             "related": ".Core.xml"
           },
-          "lib/net8.0-windows7.0/Methodist Library_Expressions_25690090.dll": {},
-          "lib/net8.0-windows7.0/Methodist Library_Expressions_44203036.dll": {}
+          "lib/net8.0-windows7.0/Methodist Library_Expressions_45057425.dll": {},
+          "lib/net8.0-windows7.0/Methodist Library_Expressions_59610102.dll": {}
         },
         "contentFiles": {
           "contentFiles/any/any/_._": {
@@ -5721,7 +5721,7 @@
           }
         }
       },
-      "Methodist.Library/1.0.5": {
+      "Methodist.Library/1.0.6": {
         "type": "package",
         "dependencies": {
           "UiPath.UIAutomation.Activities": "[24.10.10]"
@@ -5738,8 +5738,8 @@
           "lib/net8.0-windows7.0/Methodist Library.dll": {
             "related": ".Core.xml"
           },
-          "lib/net8.0-windows7.0/Methodist Library_Expressions_25690090.dll": {},
-          "lib/net8.0-windows7.0/Methodist Library_Expressions_44203036.dll": {}
+          "lib/net8.0-windows7.0/Methodist Library_Expressions_45057425.dll": {},
+          "lib/net8.0-windows7.0/Methodist Library_Expressions_59610102.dll": {}
         },
         "contentFiles": {
           "contentFiles/any/any/_._": {
@@ -11153,10 +11153,10 @@
         "markdig.signed.nuspec"
       ]
     },
-    "Methodist.Library/1.0.5": {
-      "sha512": "DRI1wzYdt802lOvR9qzidi/eO/SwQDAYHRCRMNcWsOvg88eoLgOsOW/yoHQh5bdiEMLSgyUDDQtVG7OkVIoz7w==",
+    "Methodist.Library/1.0.6": {
+      "sha512": "siOgHVG4cNSAHq8Skod7LI2AZI1aMAGpkVB3pq9xQQ984wInwVA3npaRDgng5eludlLinzjfIbyRxs4UqsWFmQ==",
       "type": "package",
-      "path": "methodist.library/1.0.5",
+      "path": "methodist.library/1.0.6",
       "files": [
         ".nupkg.metadata",
         "content/.project/PackageBindingsMetadata.json",
@@ -11218,9 +11218,9 @@
         "lib/net8.0-windows7.0/Methodist Library.Core.dll",
         "lib/net8.0-windows7.0/Methodist Library.Core.xml",
         "lib/net8.0-windows7.0/Methodist Library.dll",
-        "lib/net8.0-windows7.0/Methodist Library_Expressions_25690090.dll",
-        "lib/net8.0-windows7.0/Methodist Library_Expressions_44203036.dll",
-        "methodist.library.1.0.5.nupkg.sha512",
+        "lib/net8.0-windows7.0/Methodist Library_Expressions_45057425.dll",
+        "lib/net8.0-windows7.0/Methodist Library_Expressions_59610102.dll",
+        "methodist.library.1.0.6.nupkg.sha512",
         "methodist.library.nuspec"
       ]
     },
@@ -21740,7 +21740,7 @@
   "projectFileDependencyGroups": {
     "": [],
     "net8.0-windows7.0": [
-      "Methodist.Library >= 1.0.5 <= 1.0.5",
+      "Methodist.Library >= 1.0.6 <= 1.0.6",
       "UiPath.Excel.Activities >= 2.22.3 <= 2.22.3",
       "UiPath.Mail.Activities >= 1.21.1 <= 1.21.1",
       "UiPath.System.Activities >= 23.10.5 <= 23.10.5",
@@ -21765,7 +21765,7 @@
           "Methodist.Library": {
             "include": "Runtime",
             "target": "Package",
-            "version": "[1.0.5, 1.0.5]"
+            "version": "[1.0.6, 1.0.6]"
           },
           "UiPath.Excel.Activities": {
             "include": "Runtime",
@@ -21815,13 +21815,6 @@
       "level": "Warning",
       "warningLevel": 1,
       "message": "The local source 'C:\\Users\\iago.souza\\Downloads\\UiPathTAMTeam.Operations.Activities' doesn't exist.",
-      "libraryId": "Methodist.Library"
-    },
-    {
-      "code": "NU1801",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Unable to load the service index for source https://uipath.pkgs.visualstudio.com/Public.Feeds/_packaging/Autopilot for Everyone-Packages/nuget/v3/index.json.",
       "libraryId": "Methodist.Library"
     }
   ]
