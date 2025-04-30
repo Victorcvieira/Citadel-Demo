@@ -250,7 +250,7 @@
           }
         }
       },
-      "Methodist.Library/1.0.7": {
+      "Methodist.Library/1.0.9": {
         "type": "package",
         "dependencies": {
           "UiPath.UIAutomation.Activities": "[24.10.10]"
@@ -267,8 +267,8 @@
           "lib/net8.0-windows7.0/Methodist Library.dll": {
             "related": ".Core.xml"
           },
-          "lib/net8.0-windows7.0/Methodist Library_Expressions_57259363.dll": {},
-          "lib/net8.0-windows7.0/Methodist Library_Expressions_58153438.dll": {}
+          "lib/net8.0-windows7.0/Methodist Library_Expressions_27237168.dll": {},
+          "lib/net8.0-windows7.0/Methodist Library_Expressions_55507966.dll": {}
         },
         "contentFiles": {
           "contentFiles/any/any/_._": {
@@ -5721,7 +5721,7 @@
           }
         }
       },
-      "Methodist.Library/1.0.7": {
+      "Methodist.Library/1.0.9": {
         "type": "package",
         "dependencies": {
           "UiPath.UIAutomation.Activities": "[24.10.10]"
@@ -5738,8 +5738,8 @@
           "lib/net8.0-windows7.0/Methodist Library.dll": {
             "related": ".Core.xml"
           },
-          "lib/net8.0-windows7.0/Methodist Library_Expressions_57259363.dll": {},
-          "lib/net8.0-windows7.0/Methodist Library_Expressions_58153438.dll": {}
+          "lib/net8.0-windows7.0/Methodist Library_Expressions_27237168.dll": {},
+          "lib/net8.0-windows7.0/Methodist Library_Expressions_55507966.dll": {}
         },
         "contentFiles": {
           "contentFiles/any/any/_._": {
@@ -11153,10 +11153,10 @@
         "markdig.signed.nuspec"
       ]
     },
-    "Methodist.Library/1.0.7": {
-      "sha512": "Pc7v5ROHYbNKC3/YyY41EFDxYK5ATVZb3qqyYKrucGHxeEK2tKfjEKso8ns2YGtbwcIm3+TZmXDjQOfah8G7GQ==",
+    "Methodist.Library/1.0.9": {
+      "sha512": "ldW/XLngv2/eKaGJqG9KIk4GA+OPZ0d+UoOI7Or0mh+kdU67Jb3IauUAGCqwwT0vPWj7XTmZ4Uwk0r8sq/vgog==",
       "type": "package",
-      "path": "methodist.library/1.0.7",
+      "path": "methodist.library/1.0.9",
       "files": [
         ".nupkg.metadata",
         "content/.project/PackageBindingsMetadata.json",
@@ -11218,9 +11218,9 @@
         "lib/net8.0-windows7.0/Methodist Library.Core.dll",
         "lib/net8.0-windows7.0/Methodist Library.Core.xml",
         "lib/net8.0-windows7.0/Methodist Library.dll",
-        "lib/net8.0-windows7.0/Methodist Library_Expressions_57259363.dll",
-        "lib/net8.0-windows7.0/Methodist Library_Expressions_58153438.dll",
-        "methodist.library.1.0.7.nupkg.sha512",
+        "lib/net8.0-windows7.0/Methodist Library_Expressions_27237168.dll",
+        "lib/net8.0-windows7.0/Methodist Library_Expressions_55507966.dll",
+        "methodist.library.1.0.9.nupkg.sha512",
         "methodist.library.nuspec"
       ]
     },
@@ -21740,7 +21740,7 @@
   "projectFileDependencyGroups": {
     "": [],
     "net8.0-windows7.0": [
-      "Methodist.Library >= 1.0.7 <= 1.0.7",
+      "Methodist.Library >= 1.0.9 <= 1.0.9",
       "UiPath.Excel.Activities >= 2.22.3 <= 2.22.3",
       "UiPath.Mail.Activities >= 1.21.1 <= 1.21.1",
       "UiPath.System.Activities >= 23.10.5 <= 23.10.5",
@@ -21755,9 +21755,9 @@
     "restore": {
       "projectUniqueName": "Citadel-Demo",
       "projectName": "Citadel-Demo",
-      "projectPath": "C:\\temp\\UiPathProjects\\Citadel-Demo\\.local",
+      "projectPath": "C:\\Users\\victor.vieira\\OneDrive - UiPath\\Documents\\Clients\\Methodist\\Projects\\Citadel-Demo\\.local",
       "packagesPath": "C:\\Users\\victor.vieira\\.nuget\\packages\\",
-      "outputPath": "C:\\temp\\UiPathProjects\\Citadel-Demo\\.local"
+      "outputPath": "C:\\Users\\victor.vieira\\OneDrive - UiPath\\Documents\\Clients\\Methodist\\Projects\\Citadel-Demo\\.local"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -21765,7 +21765,7 @@
           "Methodist.Library": {
             "include": "Runtime",
             "target": "Package",
-            "version": "[1.0.7, 1.0.7]"
+            "version": "[1.0.9, 1.0.9]"
           },
           "UiPath.Excel.Activities": {
             "include": "Runtime",

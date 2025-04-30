@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hztxhVZpgKYP71JS5C626zRwLxpw4r25gQQL+aPotPEQRkhmPNngLeqa3Vb3j4jZigPFLCmE6mIgSZpBUYvdAg==",
+  "dgSpecHash": "phyyaQURAHLoDFjVWqT6U7X+wWFmIsXf0IwyVcXLrSTZnXa7w8+IH+tmlgul5tsdbSRz2erUOISz6W/KXVrGMA==",
   "success": true,
-  "projectFilePath": "C:\\temp\\UiPathProjects\\Citadel-Demo\\.local\\",
+  "projectFilePath": "C:\\Users\\victor.vieira\\OneDrive - UiPath\\Documents\\Clients\\Methodist\\Projects\\Citadel-Demo\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\victor.vieira\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\victor.vieira\\.nuget\\packages\\azure.core\\1.18.0\\azure.core.1.18.0.nupkg.sha512",
@@ -19,7 +19,7 @@
     "C:\\Users\\victor.vieira\\.nuget\\packages\\htmlagilitypack\\1.11.38\\htmlagilitypack.1.11.38.nupkg.sha512",
     "C:\\Users\\victor.vieira\\.nuget\\packages\\mailkit\\3.1.1\\mailkit.3.1.1.nupkg.sha512",
     "C:\\Users\\victor.vieira\\.nuget\\packages\\markdig.signed\\0.21.1\\markdig.signed.0.21.1.nupkg.sha512",
-    "C:\\Users\\victor.vieira\\.nuget\\packages\\methodist.library\\1.0.7\\methodist.library.1.0.7.nupkg.sha512",
+    "C:\\Users\\victor.vieira\\.nuget\\packages\\methodist.library\\1.0.9\\methodist.library.1.0.9.nupkg.sha512",
     "C:\\Users\\victor.vieira\\.nuget\\packages\\microsoft.applicationinsights\\2.15.0\\microsoft.applicationinsights.2.15.0.nupkg.sha512",
     "C:\\Users\\victor.vieira\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0\\microsoft.aspnet.signalr.client.2.4.0.nupkg.sha512",
     "C:\\Users\\victor.vieira\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.1.6\\microsoft.aspnetcore.connections.abstractions.3.1.6.nupkg.sha512",
@@ -287,7 +287,7 @@
       "code": "NU1801",
       "level": "Warning",
       "warningLevel": 1,
-      "filePath": "C:\\temp\\UiPathProjects\\Citadel-Demo\\.local",
+      "filePath": "C:\\Users\\victor.vieira\\OneDrive - UiPath\\Documents\\Clients\\Methodist\\Projects\\Citadel-Demo\\.local",
       "message": "The local source 'C:\\Users\\iago.souza\\Downloads\\UiPathTAMTeam.Operations.Activities' doesn't exist.",
       "libraryId": "Methodist.Library"
     },
@@ -295,7 +295,7 @@
       "code": "NU1801",
       "level": "Warning",
       "warningLevel": 1,
-      "filePath": "C:\\temp\\UiPathProjects\\Citadel-Demo\\.local",
+      "filePath": "C:\\Users\\victor.vieira\\OneDrive - UiPath\\Documents\\Clients\\Methodist\\Projects\\Citadel-Demo\\.local",
       "message": "The local source 'C:\\Users\\iago.souza\\Downloads\\UiPathTAMTeam.Operations.Activities' doesn't exist.",
       "libraryId": "Methodist.Library"
     }
